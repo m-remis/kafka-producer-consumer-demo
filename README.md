@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/m-remis/kafka-producer-consumer-demo/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/m-remis/kafka-producer-consumer-demo/tree/main)
+
 ## Spring kafka producer - consumer demo
 
 #### Two Simple Spring Boot demo applications (producer - consumer) that utilize Kafka message broker
